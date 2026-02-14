@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rezwan00
 - 👀 I’m interested in Software Development & Website
-- 🌱 I’m currently learning new trends in web development 
+- 🌱 I’m currently learning new trends in Software Engineering 
 - 💞️ I’m looking to collaborate as fulltime or freelancer 
 - 📫 How to reach me by email: ahmadrezwanqaderi@gmail.com
 
